@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melih-kir-3aa168238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melih-kir-3aa168238/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucqcbjexqub3fybux-vefzkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqcbjexqub3fybux-vefzkw" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/channel/ucqcbjexqub3fybux-vefzkw](https://www.youtube.com/channel/UCQCbJEXqUb3FYbux-vEfZkw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqcbjexqub3fybux-vefzkw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
