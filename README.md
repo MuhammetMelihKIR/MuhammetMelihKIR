@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammet Melih KIR</h1>
 <h3 align="center">A passionate Unity developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+<img align="right" alt="Coding" width="200" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammetmelihkir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetmelihkir" /> </p>
 
