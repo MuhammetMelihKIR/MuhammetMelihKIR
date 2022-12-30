@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/melih-kir-3aa168238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melih-kir-3aa168238/" height="30" width="40" /></a>
-<a href="https://melih-kir.itch.io" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/itchio/images/b2cb9dd3-3cfa-4456-90b5-ea21290cc77e.svg" alt="https://melih-kir.itch.io" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melih-kir-3aa168238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melih-kir-3aa168238/" height="40" width="50" /></a>
+<a href="https://melih-kir.itch.io" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/itchio/images/b2cb9dd3-3cfa-4456-90b5-ea21290cc77e.svg" alt="https://melih-kir.itch.io" height="40" width="50" /></a>
   
   
 
