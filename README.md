@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melih-kir-3aa168238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melih-kir-3aa168238/" height="30" width="40" /></a>
-<a href="https://melih-kir.itch.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://melih-kir.itch.io" height="30" width="40" /></a>
+<a href="https://melih-kir.itch.io" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5d14492ca106b9d2b02204cce774fadd.png" alt="https://melih-kir.itch.io" height="30" width="40" /></a>
   
   
 
