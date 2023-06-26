@@ -1,26 +1,15 @@
-<h1 align="center">Hi 👋, I'm Melih KIR</h1>
-<h3 align="center">I am trying to be a game developer</h3>
-<img align="center" alt="Coding" width="1000" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+<h2> Hello There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammetmelihkir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetmelihkir" /> </p>
+[
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melih-kir-3aa168238/)  [![YouTube](https://img.shields.io/badge/YouTube-B22222?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQCbJEXqUb3FYbux-vEfZkw) [![itchçio](https://img.shields.io/badge/itch.io-B22222?style=for-=youtube&logoColor=white)](https://melih-kir.itch.io)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melih-kir-3aa168238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melih-kir-3aa168238/" height="50" width="60" /></a>
+<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
-<h3 align="left">My Projects:</h3>
-<p align="left">  
-<a href="https://melih-kir.itch.io" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/itchio/images/b2cb9dd3-3cfa-4456-90b5-ea21290cc77e.svg" alt="https://melih-kir.itch.io" height="50" width="60" /></a>
-  
-  
+I'm Melih Kır , a Electrical-Electronics Engineering graduate from Karabuk University. I've been developing myself to become a game developer for about 1 year.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="100" height="60"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetmelihkir&show_icons=true&locale=en&layout=compact" alt="muhammetmelihkir" /></p>
+## 📚 More Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetmelihkir&show_icons=true&locale=en" alt="muhammetmelihkir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetmelihkir&" alt="muhammetmelihkir" /></p>
+[![Space-Bullet](https://github-readme-stats.vercel.app/api/pin/?username=MuhammetMelihKIR&repo=Space-Bullet-monorepo&theme=dark)](https://github.com/MuhammetMelihKIR/SpaceBullet)
