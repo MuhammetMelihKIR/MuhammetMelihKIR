@@ -14,5 +14,7 @@ I'm Melih KIR , I've been developing myself to become a game developer for about
 
 [![Space-Bullet](https://github-readme-stats.vercel.app/api/pin/?username=MuhammetMelihKIR&repo=SpaceBullet&theme=dark)](https://github.com/MuhammetMelihKIR/SpaceBullet)
 
+[![2048-CUBE](https://github-readme-stats.vercel.app/api/pin/?username=MuhammetMelihKIR&repo=2048CUBE&theme=dark)](https://github.com/MuhammetMelihKIR/2048Cube)
+
 
 
