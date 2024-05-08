@@ -8,13 +8,3 @@
 
 
 
-## 🎮 More Projects
-
-[![Space-Bullet](https://github-readme-stats.vercel.app/api/pin/?username=MuhammetMelihKIR&repo=SpaceBullet&theme=dark)](https://github.com/MuhammetMelihKIR/SpaceBullet)
-
-[![2048-CUBE](https://github-readme-stats.vercel.app/api/pin/?username=MuhammetMelihKIR&repo=2048CUBE&theme=dark)](https://github.com/MuhammetMelihKIR/2048Cube)
-
-[![HYPER-CANNON](https://github-readme-stats.vercel.app/api/pin/?username=MuhammetMelihKIR&repo=HyperCannon&theme=dark)](https://github.com/MuhammetMelihKIR/HyperCannon)
-
-
-
